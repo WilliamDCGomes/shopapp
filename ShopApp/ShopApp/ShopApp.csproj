@@ -25,5 +25,24 @@
     <Folder Include="Models\" />
     <Folder Include="ViewModels\" />
     <Folder Include="Views\" />
+    <Folder Include="Libraries\" />
+    <Folder Include="Libraries\Fonts\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Libraries\Fonts\Montserrat-Bold.ttf" />
+    <None Remove="Libraries\Fonts\Montserrat-Light.ttf" />
+    <None Remove="Libraries\Fonts\Montserrat-Regular.ttf" />
+    <None Remove="Libraries\Fonts\Montserrat-SemiBold.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Libraries\Fonts\Montserrat-Bold.ttf" />
+    <EmbeddedResource Include="Libraries\Fonts\Montserrat-Light.ttf" />
+    <EmbeddedResource Include="Libraries\Fonts\Montserrat-Regular.ttf" />
+    <EmbeddedResource Include="Libraries\Fonts\Montserrat-SemiBold.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Mono.Android">
+      <HintPath>..\..\..\..\..\..\..\Library\Frameworks\Xamarin.Android.framework\Versions\11.2.2.1\lib\xamarin.android\xbuild-frameworks\MonoAndroid\v11.0\Mono.Android.dll</HintPath>
+    </Reference>
   </ItemGroup>
 </Project>

@@ -5,7 +5,7 @@
     x:Class="ShopApp.Views.Stores">
     <ContentPage.Content>
         <Grid>
-            <Label Text="Lojas" HorizontalOptions="Center" VerticalOptions="Center" />
+            <Label Text="Lojas" HorizontalOptions="Center" VerticalOptions="Center" TextColor="{StaticResource Black}"/>
         </Grid>
     </ContentPage.Content>
 </ContentPage>

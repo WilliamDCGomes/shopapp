@@ -27,3 +27,6 @@ C:/Users/willi/Desktop/ShopApp/ShopApp/ShopApp/obj/Debug/netstandard2.0/ShopApp.
 /Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp/obj/Debug/netstandard2.0/ShopApp.pdb
 /Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp/obj/Debug/netstandard2.0/Menu.xaml.g.cs
 /Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp/obj/Debug/netstandard2.0/Views/Stores.xaml.g.cs
+/Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp/bin/Debug/netstandard2.0/Mono.Android.dll
+/Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp/bin/Debug/netstandard2.0/Mono.Android.pdb
+/Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp/obj/Debug/netstandard2.0/ShopApp.csproj.CopyComplete
