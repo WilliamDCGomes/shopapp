@@ -3,5 +3,6 @@
   <PropertyGroup>
     <SelectedDevice>Motorola one action</SelectedDevice>
     <ActiveDebugProfile>Motorola one action</ActiveDebugProfile>
+    <AndroidDesignerPreferredTheme>MainTheme</AndroidDesignerPreferredTheme>
   </PropertyGroup>
 </Project>

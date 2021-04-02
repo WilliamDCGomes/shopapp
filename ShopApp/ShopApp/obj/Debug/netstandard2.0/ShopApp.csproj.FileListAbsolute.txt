@@ -1,0 +1,14 @@
+C:\Users\willi\Desktop\ShopApp\ShopApp\ShopApp\bin\Debug\netstandard2.0\ShopApp.deps.json
+C:\Users\willi\Desktop\ShopApp\ShopApp\ShopApp\bin\Debug\netstandard2.0\ShopApp.dll
+C:\Users\willi\Desktop\ShopApp\ShopApp\ShopApp\bin\Debug\netstandard2.0\ref\ShopApp.dll
+C:\Users\willi\Desktop\ShopApp\ShopApp\ShopApp\bin\Debug\netstandard2.0\ShopApp.pdb
+C:\Users\willi\Desktop\ShopApp\ShopApp\ShopApp\obj\Debug\netstandard2.0\ShopApp.csprojAssemblyReference.cache
+C:\Users\willi\Desktop\ShopApp\ShopApp\ShopApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\willi\Desktop\ShopApp\ShopApp\ShopApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\willi\Desktop\ShopApp\ShopApp\ShopApp\obj\Debug\netstandard2.0\ShopApp.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\ShopApp\ShopApp\ShopApp\obj\Debug\netstandard2.0\ShopApp.AssemblyInfo.cs
+C:\Users\willi\Desktop\ShopApp\ShopApp\ShopApp\obj\Debug\netstandard2.0\ShopApp.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\ShopApp\ShopApp\ShopApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\willi\Desktop\ShopApp\ShopApp\ShopApp\obj\Debug\netstandard2.0\ShopApp.dll
+C:\Users\willi\Desktop\ShopApp\ShopApp\ShopApp\obj\Debug\netstandard2.0\ref\ShopApp.dll
+C:\Users\willi\Desktop\ShopApp\ShopApp\ShopApp\obj\Debug\netstandard2.0\ShopApp.pdb
