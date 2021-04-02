@@ -1,14 +1,15 @@
 ﻿<Properties StartupConfiguration="{6113494D-8985-4387-82FB-B21F2A9E66C1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ShopApp/ShopApp.iOS/Info.plist">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShopApp/ShopApp.iOS/AppDelegate.cs">
     <Files>
       <File FileName="ShopApp/ShopApp.iOS/Info.plist" />
+      <File FileName="ShopApp/ShopApp.iOS/AppDelegate.cs" Line="23" Column="40" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ShopApp" expanded="True">
             <Node name="ShopApp.iOS" expanded="True">
-              <Node name="Info.plist" selected="True" />
+              <Node name="AppDelegate.cs" selected="True" />
             </Node>
           </Node>
         </State>
