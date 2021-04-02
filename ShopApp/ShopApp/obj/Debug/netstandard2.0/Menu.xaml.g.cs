@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("ShopApp.App.xaml", "App.xaml", typeof(global::ShopApp.App))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("ShopApp.Menu.xaml", "Menu.xaml", typeof(global::ShopApp.Menu))]
 
 namespace ShopApp {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("App.xaml")]
-    public partial class App : global::Xamarin.Forms.Application {
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Menu.xaml")]
+    public partial class Menu : global::Xamarin.Forms.Shell {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(App));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Menu));
         }
     }
 }

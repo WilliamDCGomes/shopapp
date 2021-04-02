@@ -18,7 +18,6 @@ C:/Users/willi/Desktop/ShopApp/ShopApp/ShopApp/obj/Debug/netstandard2.0/ShopApp.
 /Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp/bin/Debug/netstandard2.0/ShopApp.pdb
 /Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp/obj/Debug/netstandard2.0/ShopApp.csprojAssemblyReference.cache
 /Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp/obj/Debug/netstandard2.0/App.xaml.g.cs
-/Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
 /Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp/obj/Debug/netstandard2.0/ShopApp.AssemblyInfoInputs.cache
 /Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp/obj/Debug/netstandard2.0/ShopApp.AssemblyInfo.cs
 /Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp/obj/Debug/netstandard2.0/ShopApp.csproj.CoreCompileInputs.cache
@@ -26,3 +25,5 @@ C:/Users/willi/Desktop/ShopApp/ShopApp/ShopApp/obj/Debug/netstandard2.0/ShopApp.
 /Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp/obj/Debug/netstandard2.0/ShopApp.dll
 /Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp/obj/Debug/netstandard2.0/ref/ShopApp.dll
 /Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp/obj/Debug/netstandard2.0/ShopApp.pdb
+/Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp/obj/Debug/netstandard2.0/Menu.xaml.g.cs
+/Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp/obj/Debug/netstandard2.0/Views/Stores.xaml.g.cs

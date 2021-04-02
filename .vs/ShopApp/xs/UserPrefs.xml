@@ -1,14 +1,20 @@
 ﻿<Properties StartupConfiguration="{6113494D-8985-4387-82FB-B21F2A9E66C1}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShopApp/ShopApp/Views/Stores.xaml.cs">
+    <Files>
+      <File FileName="ShopApp/ShopApp/Menu.xaml" Line="7" Column="1" />
+      <File FileName="ShopApp/ShopApp/Menu.xaml.cs" Line="8" Column="38" />
+      <File FileName="ShopApp/ShopApp/Views/Stores.xaml" Line="1" Column="1" />
+      <File FileName="ShopApp/ShopApp/Views/Stores.xaml.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ShopApp" expanded="True">
-            <Node name="ShopApp" expanded="True" />
-            <Node name="ShopApp.Android" expanded="True" />
-            <Node name="ShopApp.iOS" expanded="True">
-              <Node name="Resources" expanded="True">
-                <Node name="LaunchScreen.storyboard" selected="True" />
+            <Node name="ShopApp" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Stores.xaml" expanded="True">
+                  <Node name="Stores.xaml.cs" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
