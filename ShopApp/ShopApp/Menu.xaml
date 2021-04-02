@@ -4,6 +4,13 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:views="clr-namespace:ShopApp.Views"
     x:Class="ShopApp.Menu">
+    <Shell.FlyoutHeader>
+        <Grid ColumnDefinitions="1*,2*" RowDefinitions="Auto, Auto" Padding="0">
+            <Image Grid.RowSpan="2" Source="BagWhite" Margin="0, 25"/>
+            <Label Grid.Column="1" Grid.Row="0" Text="Bem vindo! ao" Style="{StaticResource MenuHeaderLaber}" Margin="0, 25, 0, 0"/>
+            <Image Grid.Column="1" Grid.Row="1" Source="LogoWhite" HorizontalOptions="Start" Margin="0, 0, 0, 25"/>
+        </Grid>
+    </Shell.FlyoutHeader>
     <FlyoutItem Title="Principais" FlyoutDisplayOptions="AsMultipleItems">
         <ShellContent Title="Lojas" Icon="MenuIconStore" ContentTemplate="{DataTemplate views:Stores}"/>
         <ShellContent Title="Restaurantes" Icon="MenuIconRestaurant" ContentTemplate="{DataTemplate views:Stores}"/>
