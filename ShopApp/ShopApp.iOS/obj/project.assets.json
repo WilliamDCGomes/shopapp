@@ -991,42 +991,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\willi\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/williamdouglascostagomes/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\willi\\Desktop\\ShopApp\\ShopApp\\ShopApp.iOS\\ShopApp.iOS.csproj",
+      "projectUniqueName": "/Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp.iOS/ShopApp.iOS.csproj",
       "projectName": "ShopApp.iOS",
-      "projectPath": "C:\\Users\\willi\\Desktop\\ShopApp\\ShopApp\\ShopApp.iOS\\ShopApp.iOS.csproj",
-      "packagesPath": "C:\\Users\\willi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\willi\\Desktop\\ShopApp\\ShopApp\\ShopApp.iOS\\obj\\",
+      "projectPath": "/Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp.iOS/ShopApp.iOS.csproj",
+      "packagesPath": "/Users/williamdouglascostagomes/.nuget/packages/",
+      "outputPath": "/Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp.iOS/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\willi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/williamdouglascostagomes/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\willi\\Desktop\\ShopApp\\ShopApp\\ShopApp\\ShopApp.csproj": {
-              "projectPath": "C:\\Users\\willi\\Desktop\\ShopApp\\ShopApp\\ShopApp\\ShopApp.csproj"
+            "/Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp/ShopApp.csproj": {
+              "projectPath": "/Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp/ShopApp.csproj"
             }
           }
         }

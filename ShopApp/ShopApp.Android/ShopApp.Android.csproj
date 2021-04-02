@@ -16,7 +16,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v11.0</TargetFrameworkVersion>
     <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
     <AndroidUseAapt2>true</AndroidUseAapt2>
@@ -76,7 +75,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ShopApp\ShopApp.csproj">
-      <Project>{EF16CD63-C98E-4B46-B707-C5ADE8EE7C3B}</Project>
+      <Project>{C0E9C8C6-BD58-45B7-9F56-42DCD63D65C8}</Project>
       <Name>ShopApp</Name>
     </ProjectReference>
   </ItemGroup>

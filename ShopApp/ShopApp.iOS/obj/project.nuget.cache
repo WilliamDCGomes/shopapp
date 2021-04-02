@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "20m9JH1FEKfeV2HvIdLVg2GJvtAqXZR+5Va/xNzLRglgPuHyT4HtJsh3hQlWz7IQyaexSnB6XBEAAvvtWmEqLg==",
+  "dgSpecHash": "1uksSI5439WzSCHATr+cTL5l8SbK8WYYNjpA9oa5rckf1wjr7KV1r9mOhY0b36JfbYVIkuYoQLi2v/MfHtskbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\willi\\Desktop\\ShopApp\\ShopApp\\ShopApp.iOS\\ShopApp.iOS.csproj",
+  "projectFilePath": "/Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp.iOS/ShopApp.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\willi\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+    "/Users/williamdouglascostagomes/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/williamdouglascostagomes/.nuget/packages/xamarin.essentials/1.6.1/xamarin.essentials.1.6.1.nupkg.sha512",
+    "/Users/williamdouglascostagomes/.nuget/packages/xamarin.forms/5.0.0.2012/xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],
   "logs": []
 }
