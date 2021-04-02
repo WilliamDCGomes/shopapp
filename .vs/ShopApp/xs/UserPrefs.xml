@@ -1,16 +1,24 @@
 ﻿<Properties StartupConfiguration="{6113494D-8985-4387-82FB-B21F2A9E66C1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ShopApp/ShopApp.iOS/AppDelegate.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShopApp/ShopApp.Android/Resources/drawable/splashscreen.xml">
     <Files>
-      <File FileName="ShopApp/ShopApp.iOS/Info.plist" />
-      <File FileName="ShopApp/ShopApp.iOS/AppDelegate.cs" Line="23" Column="40" />
+      <File FileName="ShopApp/ShopApp.Android/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="ShopApp/ShopApp.Android/SplashActivity.cs" Line="7" Column="147" />
+      <File FileName="ShopApp/ShopApp.Android/Resources/values/styles.xml" Line="25" Column="13" />
+      <File FileName="ShopApp/ShopApp.Android/Resources/drawable/splashscreen.xml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ShopApp" expanded="True">
-            <Node name="ShopApp.iOS" expanded="True">
-              <Node name="AppDelegate.cs" selected="True" />
+            <Node name="ShopApp" expanded="True" />
+            <Node name="ShopApp.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True">
+                  <Node name="splashscreen.xml" selected="True" />
+                </Node>
+              </Node>
             </Node>
+            <Node name="ShopApp.iOS" expanded="True" />
           </Node>
         </State>
       </Pad>
