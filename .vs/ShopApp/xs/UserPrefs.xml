@@ -1,26 +1,21 @@
 ﻿<Properties StartupConfiguration="{6113494D-8985-4387-82FB-B21F2A9E66C1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ShopApp/ShopApp/Menu.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShopApp/ShopApp/Services/EstablishmentService.cs">
     <Files>
       <File FileName="ShopApp/ShopApp/Menu.xaml.cs" Line="8" Column="38" />
-      <File FileName="ShopApp/ShopApp/Menu.xaml" Line="8" Column="126" />
-      <File FileName="ShopApp/ShopApp/App.xaml" Line="11" Column="60" />
+      <File FileName="ShopApp/ShopApp/Menu.xaml" />
+      <File FileName="ShopApp/ShopApp/App.xaml" Line="14" Column="54" />
+      <File FileName="ShopApp/ShopApp/Libraries/Enums/EstablishmentType.cs" Line="4" Column="12" />
+      <File FileName="ShopApp/ShopApp/Models/Establishment.cs" Line="13" Column="42" />
+      <File FileName="ShopApp/ShopApp/Services/EstablishmentService.cs" Line="6" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ShopApp" expanded="True">
             <Node name="ShopApp" expanded="True">
-              <Node name="Libraries" expanded="True">
-                <Node name="Fonts" expanded="True" />
-              </Node>
-              <Node name="Views" expanded="True">
-                <Node name="Stores.xaml" expanded="True" />
-              </Node>
-              <Node name="Menu.xaml" expanded="True" selected="True" />
-            </Node>
-            <Node name="ShopApp.Android" expanded="True">
-              <Node name="Resources" expanded="True">
-                <Node name="values" expanded="True" />
+              <Node name="Libraries" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="EstablishmentService.cs" selected="True" />
               </Node>
             </Node>
           </Node>
