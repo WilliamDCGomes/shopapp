@@ -1,13 +1,9 @@
 ﻿<Properties StartupConfiguration="{6113494D-8985-4387-82FB-B21F2A9E66C1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ShopApp/ShopApp/ViewModels/StoresViewModel.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShopApp/ShopApp/Views/Stores.xaml">
     <Files>
-      <File FileName="ShopApp/ShopApp/Menu.xaml.cs" Line="8" Column="38" />
-      <File FileName="ShopApp/ShopApp/Menu.xaml" />
-      <File FileName="ShopApp/ShopApp/App.xaml" Line="14" Column="54" />
-      <File FileName="ShopApp/ShopApp/Libraries/Enums/EstablishmentType.cs" Line="4" Column="12" />
-      <File FileName="ShopApp/ShopApp/Models/Establishment.cs" Line="10" Column="41" />
-      <File FileName="ShopApp/ShopApp/Services/EstablishmentService.cs" Line="223" Column="12" />
-      <File FileName="ShopApp/ShopApp/ViewModels/StoresViewModel.cs" Line="6" Column="9" />
+      <File FileName="ShopApp/ShopApp/Views/Stores.xaml.cs" Line="14" Column="1" />
+      <File FileName="ShopApp/ShopApp/ViewModels/StoresViewModel.cs" Line="25" Column="1" />
+      <File FileName="ShopApp/ShopApp/Views/Stores.xaml" Line="12" Column="56" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -17,10 +13,11 @@
               <Node name="Libraries" expanded="True" />
               <Node name="Models" expanded="True" />
               <Node name="Services" expanded="True" />
-              <Node name="ViewModels" expanded="True">
-                <Node name="StoresViewModel.cs" selected="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Stores.xaml" expanded="True" selected="True" />
               </Node>
-              <Node name="Views" expanded="True" />
+              <Node name="Menu.xaml" expanded="True" />
             </Node>
           </Node>
         </State>
