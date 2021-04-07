@@ -13,6 +13,7 @@
   <ItemGroup>
     <PackageReference Include="Xamarin.Forms" Version="5.0.0.2012" />
     <PackageReference Include="Xamarin.Essentials" Version="1.6.1" />
+    <PackageReference Include="Refractored.MvvmHelpers" Version="1.6.2" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Remove="MainPage.xaml" />
@@ -29,6 +30,8 @@
     <Folder Include="Libraries\Fonts\" />
     <Folder Include="Libraries\Enums\" />
     <Folder Include="Services\" />
+    <Folder Include="Libraries\Helpers\" />
+    <Folder Include="Libraries\Helpers\MVVM\" />
   </ItemGroup>
   <ItemGroup>
     <None Remove="Libraries\Fonts\Montserrat-Bold.ttf" />

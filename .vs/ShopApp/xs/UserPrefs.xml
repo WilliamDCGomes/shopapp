@@ -1,21 +1,28 @@
 ﻿<Properties StartupConfiguration="{6113494D-8985-4387-82FB-B21F2A9E66C1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ShopApp/ShopApp/Views/Stores.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShopApp/ShopApp/Libraries/Helpers/MVVM/BaseViewModel.cs">
     <Files>
       <File FileName="ShopApp/ShopApp/Views/Stores.xaml.cs" Line="14" Column="1" />
-      <File FileName="ShopApp/ShopApp/ViewModels/StoresViewModel.cs" Line="25" Column="1" />
-      <File FileName="ShopApp/ShopApp/Views/Stores.xaml" Line="12" Column="56" />
+      <File FileName="ShopApp/ShopApp/ViewModels/StoresViewModel.cs" Line="12" Column="33" />
+      <File FileName="ShopApp/ShopApp/Views/Stores.xaml" Line="13" Column="52" />
+      <File FileName="ShopApp/ShopApp/Libraries/Helpers/MVVM/BaseViewModel.cs" Line="6" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ShopApp" expanded="True">
             <Node name="ShopApp" expanded="True">
-              <Node name="Libraries" expanded="True" />
+              <Node name="Libraries" expanded="True">
+                <Node name="Helpers" expanded="True">
+                  <Node name="MVVM" expanded="True">
+                    <Node name="BaseViewModel.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
               <Node name="Models" expanded="True" />
               <Node name="Services" expanded="True" />
               <Node name="ViewModels" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Stores.xaml" expanded="True" selected="True" />
+                <Node name="Stores.xaml" expanded="True" />
               </Node>
               <Node name="Menu.xaml" expanded="True" />
             </Node>

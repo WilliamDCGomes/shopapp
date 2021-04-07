@@ -1,9 +1,53 @@
 {
   "format": 1,
   "restore": {
-    "/Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp/ShopApp.csproj": {}
+    "/Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp.Android/ShopApp.Android.csproj": {}
   },
   "projects": {
+    "/Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp.Android/ShopApp.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp.Android/ShopApp.Android.csproj",
+        "projectName": "ShopApp.Android",
+        "projectPath": "/Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp.Android/ShopApp.Android.csproj",
+        "packagesPath": "/Users/williamdouglascostagomes/.nuget/packages/",
+        "outputPath": "/Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp.Android/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/williamdouglascostagomes/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid11.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid11.0": {
+            "projectReferences": {
+              "/Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp/ShopApp.csproj": {
+                "projectPath": "/Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp/ShopApp.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid11.0": {
+          "dependencies": {
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.6.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2012, )"
+            }
+          }
+        }
+      }
+    },
     "/Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp/ShopApp.csproj": {
       "version": "1.0.0",
       "restore": {

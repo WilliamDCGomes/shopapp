@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "3rzhPYKl0Bl8OK8pIHxuviBZ0NKr8yzYbsvkYfc5xsvpQyvh0jkaCQnN6C5ojNWUnFoSSNEkTodkyQyOcclNww==",
+  "dgSpecHash": "SBxRo3sySXOPEZ8Ep+pkTGf+Uo+e99L8bLk7OrZZNBTMO19CsERnT+fgVUvtJpLrlU0Z5DF3M/F4kLe6NJciGA==",
   "success": true,
   "projectFilePath": "/Users/williamdouglascostagomes/Desktop/Repositorios/Projeto Shopping App/ShopApp/ShopApp.Android/ShopApp.Android.csproj",
   "expectedPackageFiles": [
+    "/Users/williamdouglascostagomes/.nuget/packages/refractored.mvvmhelpers/1.6.2/refractored.mvvmhelpers.1.6.2.nupkg.sha512",
     "/Users/williamdouglascostagomes/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/williamdouglascostagomes/.nuget/packages/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512",
     "/Users/williamdouglascostagomes/.nuget/packages/xamarin.androidx.activity/1.1.0.5/xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "/Users/williamdouglascostagomes/.nuget/packages/xamarin.androidx.annotation/1.1.0.8/xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",
     "/Users/williamdouglascostagomes/.nuget/packages/xamarin.androidx.annotation.experimental/1.0.0.8/xamarin.androidx.annotation.experimental.1.0.0.8.nupkg.sha512",
